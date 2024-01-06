@@ -17,7 +17,7 @@
 		- CAE 180/grade C lub CPE 180 level C1
 
 - koszt aplikacji
-	- 
+	- chyba free
 
 - koszt życia
 	- gdzieś było 5500 DKK = 3000PLN ale to 5 lat temu (to chyba było total)
