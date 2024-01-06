@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "0adf217381326275",
+    "type": "split",
+    "children": [
+      {
+        "id": "566e77014a7a9f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e689431271d4b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magisterka/Aalborg university (Dania).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a4ccc8a2c136c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce02700527f0e382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f57c8484eb830d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21cc06fbe0af548b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86fe27a31b1856f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "64548524929fb2bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "86134852c280883e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3fedc30197af537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d95c75178e031a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Magisterka/Aalborg university (Dania).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6fbacdcfae9870e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Magisterka/Aalborg university (Dania).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e3e11cb2573144f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b3c3112ab9f63bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Magisterka/Aalborg university (Dania).md"
+              }
+            }
+          },
+          {
+            "id": "a6fd964879c91a1a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e689431271d4b6f",
+  "lastOpenFiles": [
+    "Magisterki/README.md",
+    "Magisterka/Aalborg university (Dania).md",
+    "Magisterki/Template.md",
+    "Magisterki/Aarhus University (Dania).md",
+    "Magisterki/Aalborg university (Dania).md",
+    "Magisterka/Template.md",
+    "Magisterki/obsidian-studia",
+    "Magisterki",
+    "Magisterka/README.md",
+    "README.md",
+    "TAiO/Tajne taio.md",
+    "TAiO/TAIO - max clique.md",
+    "TAiO/TAIO - 01.md",
+    "TAiO/TAIO.md",
+    "TAiO/1. Maszyny RAM (23.10.05).md",
+    "TAiO/0. Wstęp (23.10.05).md",
+    "ANSI/Etap 2 - 1. Reguły i procesy.md",
+    "Inżynierka/Prezka 1.md",
+    "Magisterka/Untitled.canvas",
+    "Magisterka/Aarhus University (Dania).md",
+    "ANSI/Etap 2 - 4. Lista zdarzeń.md",
+    "ANSI/Etap 2 - 2. Agregaty i ich relacje.md",
+    "Flutter/TODO.md",
+    "Flutter/Struktura programu.md",
+    "Flutter/Initial documentation v2.md",
+    "Flutter/Initial documentation.md",
+    "Prezenter/Notatki.md",
+    "WSI/Dynamic Shortest Paths (DSP) Algorithm.md",
+    "Projekt zespołowy.md",
+    "Magisterka",
+    "Prezenter",
+    "Inżynierka",
+    "Metody translacji/MetodyTranslacji_wyklad_old.pdf",
+    "TAiO",
+    "Flutter",
+    "ANSI/etap_1_onepager.docx",
+    "ANSI"
+  ]
+}

@@ -1,0 +1,14 @@
+.mermaid text { 
+    font-size: 18px !important; 
+    font-weight: 600 !important;
+} 
+
+.mermaid .gantt .bar {
+    height: 20px !important; 
+    margin-bottom: 4px !important; 
+}
+
+.mermaid .gantt .gantt-container {
+    padding-top: 75px !important; 
+    padding-left: 75px 
+}
