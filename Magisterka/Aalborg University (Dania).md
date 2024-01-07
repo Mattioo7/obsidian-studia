@@ -26,10 +26,11 @@
 	- https://www.worksome.com/
 
 - zakwaterowanie
-	- housing-guarantee?
+	- housing-guarantee-=-=
 
 - opinie
 	- https://www.reddit.com/r/Denmark/comments/5wofy6/help_needed_computer_science/
 
 - podsumowanie
 	- bardziej podobają mi się nazwy przedmiotów tylko są słabo opisane szczegóły
+	- też chyba teoretyczny, tylko mniej niż Aarhus

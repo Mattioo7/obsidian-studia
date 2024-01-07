@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e689431271d4b6f",
+            "id": "7caf4eeb3a7a3cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magisterka/Aalborg university (Dania).md",
+                "file": "Magisterka/University of Southern Denmark.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magisterka/Aalborg university (Dania).md",
+                "file": "Magisterka/University of Southern Denmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magisterka/Aalborg university (Dania).md",
+                "file": "Magisterka/University of Southern Denmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magisterka/Aalborg university (Dania).md"
+                "file": "Magisterka/University of Southern Denmark.md"
               }
             }
           },
@@ -167,19 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e689431271d4b6f",
+  "active": "7caf4eeb3a7a3cca",
   "lastOpenFiles": [
     "Magisterka/Aarhus University (Dania).md",
-    "Magisterka/Aalborg university (Dania).md",
+    "Magisterka/University of Southern Denmark.md",
+    "Magisterka/Untitled",
+    "Magisterka/0. Template.md",
+    "Magisterka/Aalborg University (Dania).md",
+    "README.md",
+    "Inżynierka.md",
     "Magisterki/README.md",
     "Magisterki/Template.md",
     "Magisterki/Aarhus University (Dania).md",
     "Magisterki/Aalborg university (Dania).md",
-    "Magisterka/Template.md",
     "Magisterki/obsidian-studia",
     "Magisterki",
-    "Magisterka/README.md",
-    "README.md",
     "TAiO/Tajne taio.md",
     "TAiO/TAIO - max clique.md",
     "TAiO/TAIO - 01.md",
@@ -196,15 +198,12 @@
     "Flutter/Initial documentation v2.md",
     "Flutter/Initial documentation.md",
     "Prezenter/Notatki.md",
-    "WSI/Dynamic Shortest Paths (DSP) Algorithm.md",
-    "Projekt zespołowy.md",
     "Magisterka",
     "Prezenter",
     "Inżynierka",
     "Metody translacji/MetodyTranslacji_wyklad_old.pdf",
     "TAiO",
     "Flutter",
-    "ANSI/etap_1_onepager.docx",
-    "ANSI"
+    "ANSI/etap_1_onepager.docx"
   ]
 }
